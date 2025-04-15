@@ -1,0 +1,22 @@
+{
+    "title": "Install minio using helm",
+    "description": "Use helm command to install minio in a namespace on the cluster",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Helm install a minio operator release",
+          "text": "step1.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "backend": {
+      "imageid": "kubernetes-kubeadm-1node"
+    }
+  }
+  
