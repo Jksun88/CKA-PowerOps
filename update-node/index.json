@@ -1,0 +1,22 @@
+{
+    "title": "Update kubernetes node",
+    "description": "Update kubernetes worker node and add it to a cluster",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Update kubernetes node and add it to cluster",
+          "text": "step1.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "backend": {
+      "imageid": "kubernetes-kubeadm-1node"
+    }
+  }
+  
