@@ -1,0 +1,22 @@
+{
+    "title": "Scale statefulset",
+    "description": "Find pods first to be terminated",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Find pods first to be terminated",
+          "text": "step1.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "backend": {
+      "imageid": "kubernetes-kubeadm-1node"
+    }
+  }
+  
